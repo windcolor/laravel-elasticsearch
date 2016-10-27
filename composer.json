@@ -30,7 +30,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Windcolor\\LaravelElasticsearch\\": "src/"
+			"Cviebrock\\LaravelElasticsearch\\": "src/"
 		}
 	},
 	"minimum-stability": "dev"
