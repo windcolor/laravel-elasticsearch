@@ -1,5 +1,5 @@
 {
-	"name": "cviebrock/laravel-elasticsearch",
+	"name": "Windcolor/laravel-elasticsearch",
 	"description": "An easy way to use the official PHP ElasticSearch client in your Laravel applications.",
 	"keywords": [
 		"laravel",
@@ -16,6 +16,10 @@
 	"license": "MIT",
 	"authors": [
 		{
+			"name": "Frank lu",
+			"email": "414993289@qq.com"
+		},
+		{
 			"name": "Colin Viebrock",
 			"email": "colin@viebrock.ca"
 		},
@@ -26,7 +30,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"windcolor\\LaravelElasticsearch\\": "src/"
+			"Windcolor\\LaravelElasticsearch\\": "src/"
 		}
 	},
 	"minimum-stability": "stable",
